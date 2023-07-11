@@ -1,0 +1,20 @@
+{
+  "name": "lab9",
+  "version": "1.0.0",
+  "description": "lab9",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnniqueG/lab9-csi3140.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnniqueG/lab9-csi3140/issues"
+  },
+  "homepage": "https://github.com/AnniqueG/lab9-csi3140#readme"
+}
